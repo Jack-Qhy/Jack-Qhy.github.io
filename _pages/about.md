@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
+About me
+=====
 This is Jack's webpage,I am a first year student in MPU,my major is CS.
 
 A data-driven personal website
