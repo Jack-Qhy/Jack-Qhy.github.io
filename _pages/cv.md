@@ -26,5 +26,5 @@ Skills
 
 Teaching
 ======
-*currently dont't have,maybe in the summer holiday I will???
+* currently dont't have,maybe in the summer holiday I will???
   
