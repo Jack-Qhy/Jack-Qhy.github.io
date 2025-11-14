@@ -15,6 +15,7 @@ Education
 
 Work experience
 ======
+* crrently dont't have,maybe in the summer holiday I will???
 
   
 Skills
@@ -25,4 +26,5 @@ Skills
 
 Teaching
 ======
+*currently dont't have,maybe in the summer holiday I will???
   
