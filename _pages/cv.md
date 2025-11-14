@@ -22,10 +22,6 @@ Skills
 * basic programming skills
 
 
-Publications
-======
-  
-  
 
 Teaching
 ======
